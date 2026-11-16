@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nanxi Yi 👋</h1>
 
-<p align="center"><strong>Undergraduate Researcher · Huazhong University of Science and Technology</strong></p>
+<p align="center"><strong>Undergraduate Student · Huazhong University of Science and Technology</strong></p>
 
 <p align="center"><em>“Per aspera ad astra”</em></p>
 
