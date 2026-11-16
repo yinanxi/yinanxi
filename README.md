@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://yinanxi.github.io/">🌐 Website</a> ·
   <a href="https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en">🎓 Google Scholar</a> ·
+  <a href="https://www.linkedin.com/in/nanxi-yi-b157ab288/">💼 LinkedIn</a> ·
   <a href="mailto:yinanxi010502@gmail.com">✉️ Email</a>
 </p>
 
